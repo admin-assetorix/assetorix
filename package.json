@@ -4,7 +4,6 @@
   "description": "A real estate website build for simplicity.",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
     "dev": "nodemon index.js"
   },
   "keywords": [],
